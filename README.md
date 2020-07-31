@@ -1,4 +1,4 @@
-# Hey there 👋 ![](https://komarev.com/ghpvc/?username=antoninj)
+# Hey there 👋 ![Visitors](https://komarev.com/ghpvc/?username=antoninj&label=Visitors)
 
 
 ## :boy: About me 
