@@ -1,20 +1,17 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=antoninj)
 
+# Hey there 👋 
+
+## :boy: About me 
+Swiss and french software engineer living in Belgium. 
+
+## :mag_right: Meaningless stats about my GitHub activity 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Antoninj&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antoninj&hide=html,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**Antoninj/Antoninj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📬 Get in touch
+- [Twitter](https://twitter.com/moanajsn)
+- [Website](https://antoninjsn.netlify.app)
+- [LinkedIn](https://www.linkedin.com/in/antonin-jousson-6503b495/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
