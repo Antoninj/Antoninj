@@ -1,6 +1,5 @@
-![](https://komarev.com/ghpvc/?username=antoninj)
+# Hey there 👋 ![](https://komarev.com/ghpvc/?username=antoninj)
 
-# Hey there 👋 
 
 ## :boy: About me 
 Swiss and french software engineer living in Belgium. 
