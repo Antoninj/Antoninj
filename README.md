@@ -1,8 +1,8 @@
 # Hey there 👋 ![Visitors](https://komarev.com/ghpvc/?username=antoninj&label=Visitors)
 
 
-## :boy: About me 
-Swiss and french software engineer living in Belgium. 
+## :man: About me 
+Swiss and french software engineer living in Belgium. Love coding, playing tennis/badminton and windsurfing (when I can).
 
 ## :mag_right: Meaningless stats about my GitHub activity 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Antoninj&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
