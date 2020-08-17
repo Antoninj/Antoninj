@@ -12,5 +12,5 @@ Swiss and french software engineer living in Belgium. Love coding, playing tenni
 ## 📬 Get in touch
 - [Twitter](https://twitter.com/moanajsn)
 - [Website](https://antoninjsn.netlify.app)
-- [LinkedIn](https://www.linkedin.com/in/antonin-jousson-6503b495/)
+- [LinkedIn](https://www.linkedin.com/in/antoninj/)
 
