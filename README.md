@@ -1,5 +1,7 @@
 # Hey there 👋 ![Visitors](https://komarev.com/ghpvc/?username=antoninj&label=Visitors)
 
+![moorea](mooreav2.jpg)
+
 
 ## :man: About me 
 Swiss and french software engineer living in Belgium. Love coding, playing tennis/badminton and windsurfing (when I can).
