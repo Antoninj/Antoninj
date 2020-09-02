@@ -1,4 +1,4 @@
-![moorea](https://github.com/Antoninj/Antoninj/mooreav2.jpg)
+![moorea](https://github.com/Antoninj/Antoninj/blob/master/moorev2.jpg?raw=true)
 
 # Hey there 👋 ![Visitors](https://komarev.com/ghpvc/?username=antoninj&label=Visitors)
 
