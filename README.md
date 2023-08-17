@@ -11,7 +11,7 @@ Swiss & French software engineer living in Belgium. Love programming, playing te
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Antoninj&show_icons=true&count_private=true&theme=transparent&card_width=320"/>
 </a> 
-<a href="[https://github.com/anuraghazra/convoychat](https://github.com/anuraghazra/github-readme-stats)">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antoninj&hide=html,jupyter%20notebook&layout=donut&theme=transparent&card_width=320" />
 </a>
 </div>
