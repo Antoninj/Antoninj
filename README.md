@@ -3,7 +3,7 @@
 # Hey there 👋 ![Visitors](https://komarev.com/ghpvc/?username=antoninj&label=Visitors)
 
 ## :man: About me 
-Swiss & French software engineer living in Belgium. Love programming, playing tennis & badminton, and windsurfing.
+Swiss & French software engineer living in Belgium. In my free time, I enjoy programming, playing tennis & badminton, and windsurfing.
 
 ## :mag_right: Meaningless stats about my GitHub activity 
 
